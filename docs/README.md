@@ -1,4 +1,4 @@
-# User DeviceId Pixel 🚀
+# Device Id Pixel 🚀
 
 ## 📋 Descripción
 Pixel app que genera y gestiona identificadores únicos de dispositivos para VTEX, implementando técnicas avanzadas de fingerprinting y encriptación para garantizar la unicidad y seguridad de los IDs.
