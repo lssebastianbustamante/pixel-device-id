@@ -1,0 +1,23 @@
+{
+  "vendor": "vendor-name",
+  "name": "pixel-device-id",
+  "version": "0.0.1",
+  "title": "Device id Pixel",
+  "description": "Deviceid Pixel",
+  "builders": {
+    "react": "3.x",
+    "store": "0.x",
+    "docs": "0.x"
+  },
+  "registries": ["smartcheckout"],
+  "dependencies": {
+    "vtex.pixel-interfaces": "1.x",
+    "vtex.pixel-manager": "1.x"
+  },
+  "policies": [
+    {
+      "name": "pixel"
+    }
+  ],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

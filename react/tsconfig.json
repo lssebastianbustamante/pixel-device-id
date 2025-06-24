@@ -1,0 +1,13 @@
+{
+  "extends": "@vtex/tsconfig",
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "lib": ["DOM"],
+    "jsx": "preserve",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "target": "es2017"
+  },
+  "include": ["./typings/*.d.ts", "./**/*.tsx", "./**/*.ts"]
+}

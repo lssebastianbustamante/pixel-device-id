@@ -1,0 +1,9 @@
+{
+  "name": "pixel-device-id",
+  "version": "0.0.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}

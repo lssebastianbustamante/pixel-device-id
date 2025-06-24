@@ -1,0 +1,13 @@
+{
+  "name": "pixel-device-id",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "@types/ramda": "^0.30.0",
+    "@types/react": "^18.3.3",
+    "@vtex/tsconfig": "^0.6.0",
+    "vtex.pixel-interfaces": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.pixel-interfaces@1.1.1/public/_types/react",
+    "vtex.pixel-manager": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.pixel-manager@1.9.0/public/@types/vtex.pixel-manager",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.135.1/public/@types/vtex.render-runtime"
+  }
+}
